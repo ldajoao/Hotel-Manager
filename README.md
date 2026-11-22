@@ -108,7 +108,7 @@ Escolha uma opcao:
 
 O usuário deverá selecionar a opção desejada e seguir as instruções apresentadas na tela.
 
-## 👥 Projeto acadêmico
+## Projeto acadêmico
 
 Projeto desenvolvido em equipe como atividade acadêmica, com o objetivo de aplicar conceitos de programação, estruturas de dados, funções e manipulação de arquivos.
 
